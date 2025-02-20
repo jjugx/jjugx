@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m JUG
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjugx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjugx&layout=compact&include_all_commits=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjugx&include_all_commits=true)
 
 <!---
